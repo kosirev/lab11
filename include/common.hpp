@@ -1,5 +1,3 @@
-// Copyright 2021 Lamp
-
 #ifndef INCLUDE_COMMON_HPP_
 #define INCLUDE_COMMON_HPP_
 
